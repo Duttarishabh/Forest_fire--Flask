@@ -5,8 +5,6 @@ The dataset includes 244 instances that regroup a data of two regions of Algeria
 122 instances for each region.
 The period from June 2012 to September 2012. The dataset includes 11 attributes and 1 output attribute (class) The 244 instances have been classified into fire(138 classes) and not fire (106 classes) classes.
 Attribute Information:
-
-Date : (DD/MM/YYYY) Day, month ('june' to 'september'), year (2012) Weather data observations
 Temp : temperature noon (temperature max) in Celsius degrees: 22 to 42
 RH : Relative Humidity in %: 21 to 90
 Ws  speed in km/h: 6 to 29
